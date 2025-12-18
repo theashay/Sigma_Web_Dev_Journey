@@ -77,8 +77,8 @@ These are the weapons I have mastered or am currently learning in my journey.
 ### 📈 **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=theashay&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theashay&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
@@ -88,7 +88,7 @@ These are the weapons I have mastered or am currently learning in my journey.
 I am open to collaborations, code reviews, and tech discussions.
 
 <p align="center">
-  <a href="https://instagram.com/YOUR_HANDLE">
+  <a href="https://instagram.com/the_ashay_patil">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
