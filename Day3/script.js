@@ -1,0 +1,1 @@
+alert("HELLO FROM DAY 3 SCRIPT.JS");
